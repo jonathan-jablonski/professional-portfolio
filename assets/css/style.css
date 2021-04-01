@@ -234,6 +234,8 @@ main {
 
 .got-munchies {
   background-image: url("../images/gotmunchies.JPG");
+  background-repeat: no-repeat;
+  background-size:900px;
 }
 
 .git-hub {
