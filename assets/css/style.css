@@ -14,7 +14,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, 'sans-serif'
+  font-family: 'Poppins', sans-serif;
   color: var(--primary);
   background-color: var(--light);
   line-height: 1.5;
@@ -221,19 +221,19 @@ main {
 
 /* portfolio project images */
 .data-retrieval {
-  background-image: url("../images/arcgis.jpg");
+  background-image: url("../images/workdaysched.JPG");
 }
 
 .music {
   background-image: url("../images/02-portfolio-3.jpg");
 }
 
-.scratch-game {
-  background-image: url("../images/scratch.jpg");
+.code-quiz {
+  background-image: url("../images/codequiz.JPG");
 }
 
-.location-analysis {
-  background-image: url("../images/image7.jpg");
+.got-munchies {
+  background-image: url("../images/gotmunchies.JPG");
 }
 
 .git-hub {
