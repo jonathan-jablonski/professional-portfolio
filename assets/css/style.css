@@ -254,6 +254,10 @@ main {
 .podshack {
   background-image: url("../images/podshack.png");
 }
+
+.code-quiz {
+  background-image: url("../images/codequiz.JPG");
+}
 /* end portfolio project images */
 
 @media screen and (max-width: 980px) {
